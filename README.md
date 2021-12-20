@@ -19,3 +19,5 @@ The images are launch and also the obligatory "waving the finger in front of it"
 Testing was done on a first generation Raspberry Pi Zero. 
 
 Comnpile and link  g++ test.cpp AMG8833IR.cpp  -Wall -std=c++11   -fpermissive -o testamg -lm -lpng
+
+Be advised most of this is copypasta. Mainly the Arduino core stuff made to work with Raspberry PI. The hardest part was getting it to use the "local" i2c resources. 
