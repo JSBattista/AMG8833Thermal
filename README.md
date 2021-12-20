@@ -6,6 +6,7 @@ Pertinent links also in code:
 https://github.com/ayaromenok/RaspberryPiCameraForAMG8833
 This is the simplistic version RaspberryPiCameraForAMG8833-master. I didn't want to use that extra GUI stuff though. 
 For solving other issues along the way, like using the already-there i2c library and such, I went to these places. 
+
         https://github.com/nox771/i2c_t3/issues/16
         
         https://github.com/threebrooks/AdafruitStepperMotorHAT_CPP/issues/1
